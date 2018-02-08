@@ -1,0 +1,11 @@
+C:\Users\stewart.whitworth\Documents\Visual Studio 2017\Projects\UniqueCustomerDiscountImporter\UniqueCustomerDiscountImporter\bin\Debug\UniqueCustomerDiscountImporter.exe.config
+C:\Users\stewart.whitworth\Documents\Visual Studio 2017\Projects\UniqueCustomerDiscountImporter\UniqueCustomerDiscountImporter\bin\Debug\UniqueCustomerDiscountImporter.exe
+C:\Users\stewart.whitworth\Documents\Visual Studio 2017\Projects\UniqueCustomerDiscountImporter\UniqueCustomerDiscountImporter\bin\Debug\UniqueCustomerDiscountImporter.pdb
+C:\Users\stewart.whitworth\Documents\Visual Studio 2017\Projects\UniqueCustomerDiscountImporter\UniqueCustomerDiscountImporter\obj\Debug\UniqueCustomerDiscountImporter.csprojResolveAssemblyReference.cache
+C:\Users\stewart.whitworth\Documents\Visual Studio 2017\Projects\UniqueCustomerDiscountImporter\UniqueCustomerDiscountImporter\obj\Debug\UniqueCustomerDiscountImporter.csproj.CoreCompileInputs.cache
+C:\Users\stewart.whitworth\Documents\Visual Studio 2017\Projects\UniqueCustomerDiscountImporter\UniqueCustomerDiscountImporter\obj\Debug\UniqueCustomerDiscountImporter.exe
+C:\Users\stewart.whitworth\Documents\Visual Studio 2017\Projects\UniqueCustomerDiscountImporter\UniqueCustomerDiscountImporter\obj\Debug\UniqueCustomerDiscountImporter.pdb
+C:\Users\stewart.whitworth\Documents\Visual Studio 2017\Projects\UniqueCustomerDiscountImporter\UniqueCustomerDiscountImporter\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\stewart.whitworth\Documents\Visual Studio 2017\Projects\UniqueCustomerDiscountImporter\UniqueCustomerDiscountImporter\bin\Debug\ExcelDataReader.dll
+C:\Users\stewart.whitworth\Documents\Visual Studio 2017\Projects\UniqueCustomerDiscountImporter\UniqueCustomerDiscountImporter\bin\Debug\ExcelDataReader.xml
+C:\Users\stewart.whitworth\Documents\Visual Studio 2017\Projects\UniqueCustomerDiscountImporter\UniqueCustomerDiscountImporter\bin\Debug\ExcelDataReader.DataSet.xml
